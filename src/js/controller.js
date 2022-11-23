@@ -130,6 +130,5 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination)
   addRecipeView.addHandlerUpload(controlAddRecipe);
   console.log("HELLO WORLD");
-  console.log("NGUYEN THANH LONG");
 }
 init()
